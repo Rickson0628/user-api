@@ -1,12 +1,12 @@
 # 🖥️ User API for Books Favourites App
 
-This is the backend API for the [Books Favourites App](https://github.com/Rickson0628/Books-Favourites-). It handles user authentication, book favourites management, and database interactions.
+This is the backend API for the [Book Shelf App](https://github.com/Rickson0628/Book-Shelf). It handles user authentication, book favourites management, and database interactions.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Books Favourites App](https://books-favourites-xt9c.vercel.app/login)
+🔗 [Books Shelf App](https://rx-book-shelf.vercel.app/)
 
 ---
 
