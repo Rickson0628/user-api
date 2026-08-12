@@ -1,4 +1,4 @@
-# 🖥️ User API for Books Favourites App
+# 🖥️ User API for Books Shelf App
 
 This is the backend API for the [Book Shelf App](https://github.com/Rickson0628/Book-Shelf). It handles user authentication, book favourites management, and database interactions.
 
